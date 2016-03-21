@@ -1,0 +1,13 @@
+#page-hero {
+  background-blend-mode: overlay, multiply;;
+  background-color: rgba(0, 0, 0, 0.75);
+  background-image: url('../img/downtown-jersey-city.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+
+  &:after {
+    position: absolute;
+  }
+}

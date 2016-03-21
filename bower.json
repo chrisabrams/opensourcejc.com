@@ -1,0 +1,24 @@
+{
+  "name": "opensourcejs.com",
+  "main": "gulpfile.js",
+  "version": "0.0.1",
+  "authors": [
+    "Chris Abrams <mail@chrisabrams.com>"
+  ],
+  "description": "",
+  "keywords": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0",
+    "jquery": "^2.2.2",
+    "normalize.css": "~3.0.2"
+  }
+}
