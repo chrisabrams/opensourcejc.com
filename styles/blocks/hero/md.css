@@ -1,0 +1,11 @@
+@media (min-width: $md) {
+
+  #page-hero {
+    height: 100vh;
+  }
+
+  .page-title {
+    margin-top: 300px;
+  }
+
+}
